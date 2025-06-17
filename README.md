@@ -16,15 +16,12 @@ An end-to-end simulation of an AI-driven election environment, featuring:
 ## 🏗️ Repository Structure
 
 ```text
-├── election_simulation.py    # Core Python script for rounds, posts, bots, voting
+├── election.ipynb            # Core Python notebook for rounds, posts, bots, voting
 ├── voters.csv                # Generated voter data with per-round votes
 ├── round_0_social_media.csv  # Social media interactions, including timestamps
 ├── round_1_social_media.csv  # …
 ├── round_2_social_media.csv  # …
-├── web_interface/            # Static HTML+JS for browsing rounds
-│   └── index.html            # Web page showing posts, comments, and vote chart
-├── charts/                   # Scripts/notebooks for plotting vote trends
-│   └── plot_votes.py
+├── twatter.html              # Web page showing posts, comments, and vote chart
 └── README.md                 # This file
 ```
 
