@@ -40,16 +40,11 @@ An end-to-end simulation of an AI-driven election environment, featuring:
 
 ### Installation
 
-1. Clone the repo:
+Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/ai-election-simulator.git
-   cd ai-election-simulator
-   ```
-2. Install Python dependencies:
-
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/groovychoons/ai-election
+   cd ai-election
    ```
 
 ### Running the Simulation
